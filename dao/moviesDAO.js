@@ -1,6 +1,6 @@
 import mongodb from "mongodb";
 
-const ObjectId = mongodb.ObjectID;
+const ObjectId = mongodb.ObjectId;
 
 let movies; //store reference to database
 
